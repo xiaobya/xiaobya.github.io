@@ -3,7 +3,7 @@
 ## 1. 作业1
 作业1描述  
 
-[作业1链接]()
+[作业1链接](https://xiaobya.github.io/bar_datazoom_slider.html)
 ## 2.作业2
 作业2描述   
 
